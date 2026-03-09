@@ -1,13 +1,13 @@
-# 굇굃굈굉굊 Dashboard OEE Panovo - Power BI
-[Describe el objetivo principal del repositorio.]
+# 굇굃굈굉굊 Dashboard Costo por Kilo - Moldeados - Power BI
+[Documentar las medidas, tablas calculadas y columnas calculadas diseñadas para la elaboración del tablero de costo por kilo para la planta de moldeados]
 ---
 ## 굓굔굕굖 Objetivo
-[Describe el objetivo principal del tablero.]
+[Reducir costos operativos mediante un uso eficiente de materiales, energía y recursos en la planta.]
 ---
 ## 뭅뭃뭄뭆 Tecnologías Utilizadas
-- **Power BI Desktop** (*[modo de conexión: Import / DirectQuery]*)
-- **[Fuente de datos, ej. SharePoint / SQL Server / SAP / Excel]**
-- **DAX** (*[tipo de cálculos: medidas de forecast, métricas de calidad, etc.]*)
+- **Power BI Desktop** (*Import*)
+- **[SQL Server / SAP ]**
+- **DAX** (*[tipo de cálculos: consumos mensuales, costos fijos, costos variables, costo por kg]*)
 - **GitHub** (para control de versiones y documentación técnica)
 ---
 ## 광괒 Estructura del Repositorio
